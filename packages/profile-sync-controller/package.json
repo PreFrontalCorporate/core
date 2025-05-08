@@ -102,7 +102,7 @@
   "dependencies": {
     "@metamask/base-controller": "^8.0.1",
     "@metamask/keyring-api": "^17.4.0",
-    "@metamask/snaps-sdk": "^6.22.0",
+    "@metamask/snaps-sdk": "^6.23.0",
     "@metamask/snaps-utils": "^9.2.0",
     "@noble/ciphers": "^0.5.2",
     "@noble/hashes": "^1.4.0",
